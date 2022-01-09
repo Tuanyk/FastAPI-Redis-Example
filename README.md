@@ -37,3 +37,7 @@ async def detect_bad_words_api(data: DataAPI):
 ```
 
 Big O = O(C) + O(C) + O(N^2) + O(C) = O(N^2)
+
+# Video
+
+Video Demo: https://www.youtube.com/embed/MT-6PQj-ZN0
